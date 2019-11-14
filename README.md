@@ -1,1 +1,2 @@
 # react-beautiful-dnd-korean
+제가 좋아하는 [칸반보드 형태의 스케쥴러](https://github.com/depromeet/dayblock-frontend)를 리액트로 제작하기 위하여 [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) 모듈의 힘을 빌렸습니다. 정말 재미있는 기능이였지만 한국어로 된 자료가 거의 없었기 때문에 [영어 강의](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd)의 힘을 빌렸는데, 오래된 자료인 만큼 현재의 리액트에서는 바뀐 부분이 일부 있었습니다! 이러한 점들을 모두 모아 강의 자료를 한국어로 공유해보고자 합니다 :D
